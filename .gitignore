@@ -1,0 +1,7 @@
+# Log files
+*.log
+
+# Generated files
+out/
+*.apk
+
