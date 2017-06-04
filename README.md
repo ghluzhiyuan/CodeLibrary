@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/ghluzhiyuan/CodeLibrary/master/Logo.jpg)](https://github.com/ghluzhiyuan/CodeLibrary)
+[![](https://github.com/ghluzhiyuan/CodeLibrary/raw/master/logo.png)](https://github.com/ghluzhiyuan/CodeLibrary)
 
 About
 -----
