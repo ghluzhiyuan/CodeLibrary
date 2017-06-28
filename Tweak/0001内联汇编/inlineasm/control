@@ -1,0 +1,9 @@
+Package: com.luzy
+Name: InlineAsm
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: zhiyuanlu
+Author: zhiyuanlu
+Section: Tweaks
