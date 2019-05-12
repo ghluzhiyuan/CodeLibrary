@@ -1,0 +1,9 @@
+Package: com.yourcompany.csdnrobot
+Name: csdn_robot
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: csdn
+Author: csdn
+Section: Tweaks
